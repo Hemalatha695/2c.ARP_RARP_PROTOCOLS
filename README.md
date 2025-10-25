@@ -68,8 +68,13 @@ s.close()
 ```
 ## OUPUT - ARP
 client.py
+
+
 <img width="811" height="309" alt="495469858-54c74f76-0fe9-4fc7-bcfa-de3f45182afa" src="https://github.com/user-attachments/assets/3401216d-a78e-427d-954b-39b1d6ea757d" />
+
 server.py
+
+
 <img width="793" height="312" alt="495469947-ae8ad45b-57d6-423f-afb7-dcfde128f5e4" src="https://github.com/user-attachments/assets/95aa2ccb-2b9f-46b4-9c08-3705e51ef820" />
 
 ## PROGRAM - RARP
@@ -120,9 +125,13 @@ c.close()
 s.close()
 ```
 ## OUPUT -RARP
+
 client.py
+
 <img width="939" height="389" alt="495469399-733bc948-c8d8-44b5-895d-dffcc335c745" src="https://github.com/user-attachments/assets/980ad3a4-a59c-4839-a1b1-b25f74190ec8" />
+
 server.py
+
 <img width="932" height="419" alt="495469482-24198f14-3f46-4253-9445-2fc26b115697" src="https://github.com/user-attachments/assets/d2eba758-e98e-4182-b429-974cfae1aa0d" />
 
 
